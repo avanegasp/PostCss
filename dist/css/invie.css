@@ -4,6 +4,8 @@
   height: 500px;
 }
 
+
+
 .InvieHero-header{
     display: -webkit-box;
     display: flex;
@@ -13,6 +15,12 @@
     -webkit-box-pack: justify;
             justify-content: space-between;
   }
+
+
+
+.InvieHero-copy-title{
+      font-size: 117px;
+    }
 
 .InvieFooter{
   background-color: #273b47;
