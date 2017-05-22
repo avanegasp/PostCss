@@ -1,0 +1,33 @@
+{
+  "name": "postcss",
+  "version": "0.1.0",
+  "description": "Aprendiendo sobre postcss",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanegasp/PostCss.git"
+  },
+  "keywords": [
+    "postcss",
+    "gulp",
+    "css",
+    "javascript"
+  ],
+  "author": "angie vanegas pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avanegasp/PostCss/issues"
+  },
+  "homepage": "https://github.com/avanegasp/PostCss#readme"
+}

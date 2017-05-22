@@ -5,3 +5,8 @@ body{
 h1{
   color: red;
 }
+
+.claseTet{
+  display: flex;
+  transition: all 0.3s ease;
+}
