@@ -1,9 +1,10 @@
 .InvieHero{
+  background-color: #466173;
   padding: 20px;
   height: 500px;
 }
 
-  .InvieHero-header{
+.InvieHero-header{
     display: -webkit-box;
     display: flex;
     -webkit-box-orient: horizontal;
@@ -12,3 +13,7 @@
     -webkit-box-pack: justify;
             justify-content: space-between;
   }
+
+.InvieFooter{
+  background-color: #273b47;
+}

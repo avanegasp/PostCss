@@ -1,4 +1,13 @@
+:root{
+  --bg-body: #fafafa;
+  --bg-header: #466173;
+  --bg-footer: #273b47;
+}
+
+
+
 .InvieHero{
+  background-color: var(--bg-header);
   padding: 20px;
   height: 500px;
 
@@ -7,4 +16,8 @@
     flex-direction: row;
     justify-content: space-between;
   }
+}
+
+.InvieFooter{
+  background-color: var(--bg-footer);
 }
