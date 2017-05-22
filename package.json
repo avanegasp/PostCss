@@ -9,7 +9,8 @@
     "gulp-postcss": "^7.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.1"
+    "autoprefixer": "^7.1.1",
+    "postcss-nested": "^2.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

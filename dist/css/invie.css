@@ -1,13 +1,14 @@
-body{
-  background: yellow;
+.InvieHero{
+  padding: 20px;
+  height: 500px;
 }
 
-h1{
-  color: red;
-}
-
-.claseTet{
-  display: -webkit-box;
-  display: flex;
-  transition: all 0.3s ease;
-}
+  .InvieHero-header{
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+  }
