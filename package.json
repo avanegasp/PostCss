@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",
+    "csswring": "^6.0.0",
     "lost": "^8.0.0",
     "postcss-cssnext": "^2.11.0",
     "postcss-import": "^10.0.0",
